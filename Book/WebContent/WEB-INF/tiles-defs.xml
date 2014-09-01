@@ -10,7 +10,7 @@
 -->
 
 <tiles-definitions>
-
+<definition name=""></definition>
     <!-- sample tiles definitions
     <definition name=".mainLayout" path="/common/layouts/classicLayout.jsp">
         <put name="title"  value="Sample Page Title" />
