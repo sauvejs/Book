@@ -51,8 +51,7 @@ public class ListBooksAction extends Action {
 			}
 			
 		}catch(Exception e){
-			
-			
+			// create exception action here sometime
 		}finally{
 			
 			try {
