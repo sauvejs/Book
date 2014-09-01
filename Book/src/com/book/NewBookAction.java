@@ -42,7 +42,7 @@ public class NewBookAction extends Action {
 				connection.close();
 
 			} catch (Exception e) {
-
+				// do something for exception
 			}
 
 		}
