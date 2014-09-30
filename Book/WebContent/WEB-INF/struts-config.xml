@@ -56,7 +56,7 @@
 		<!-- Default forward to "Welcome" action -->
 		<!-- Demonstrates using index.jsp to forward -->
 		<forward name="welcome" path="/Welcome.do" />		<forward name="new"     path="/New.do" />        <forward name="list"    path="/List.do" />
-	</global-forwards>
+	</global-forwards>	
 
 
 	<!-- =================================== Action Mapping Definitions -->
