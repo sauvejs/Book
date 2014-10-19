@@ -29,7 +29,7 @@ public class ListBooksAction extends Action {
 	private static String AUTH_FIRST = "auth_first";
 	private static String ISBN = "isbn";
 	
-	// perform method
+	// perform method "perform"
 	public ActionForward perform(ActionMapping mapping, ActionForm form,
 			HttpServletRequest req, HttpServletResponse res) {
 		
